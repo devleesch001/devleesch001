@@ -2,15 +2,10 @@
 
 # About Me:
 I'm Software engenieer, 
-Currenly working on :
+currenly working on :
  - Data processing services in GO
  - Web Interface in Vue
  - Embeded frame decoder for Lorawan Gateway in C
-
-
-I’m currently working on on custom data iot endpoint
-
-
 
 
 # Tech Stack:
